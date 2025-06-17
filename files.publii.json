@@ -1,0 +1,397 @@
+[
+    {
+        "path": "10-game-changing-mindset-shifts-that-drive-results-and-transform-your-life.html",
+        "type": "file",
+        "md5": "f3d122c707dfd211904002cc74fec789"
+    },
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "5fff24314844948b74aadf330691d620"
+    },
+    {
+        "path": "about.html",
+        "type": "file",
+        "md5": "8404a69da82a33ce8a4b2279f928a8d5"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "ff5114e57cdc494930a0fc2b3c04fa02"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "7815e1f605781f6892b999fe6ca17746"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "f91a5187ee2a626a1367d0af210c6f6a"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "e2bc0e7d7ff60ea78ee920470cf8c8a1"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "82a146f3c6377c10fc0728d8e93d3b00"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cee3f4dfa013d82f323b7667b23c71d3"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/aha90",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/aha90/index.html",
+        "type": "file",
+        "md5": "51f0d7e475b89938f696bb5fce953501"
+    },
+    {
+        "path": "contact.html",
+        "type": "file",
+        "md5": "16792d9fd8a6ef61051af1120c917f24"
+    },
+    {
+        "path": "every-move-counts-how-strategy-drives-major-wins-in-sports-business-and-life.html",
+        "type": "file",
+        "md5": "02b04fa7154c686cf116145f638a59e7"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "9dd369284d2c93aba6d1858761561ac2"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "530beceafdd87a5af8f4303e091b87fc"
+    },
+    {
+        "path": "fuel-your-fire-essential-motivation-strategies-for-lifelong-winners.html",
+        "type": "file",
+        "md5": "9a9d6eeab1cc9d9838b1e3c4c17ef343"
+    },
+    {
+        "path": "how-to-build-confidence-that-commands-the-game-boost-your-performance-and-overcome-doubts.html",
+        "type": "file",
+        "md5": "c45bd62bd37d3daca62ecbc81c9e7a3c"
+    },
+    {
+        "path": "how-to-stay-mentally-sharp-when-the-stakes-are-high-strategies-for-success.html",
+        "type": "file",
+        "md5": "476b6f82ea00ac2bdc850689eba66620"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "06b94b8dd0528104278cb3751f22c597"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/cover.png",
+        "type": "file",
+        "md5": "97eb238a347258ff0caa2d4193f947ea"
+    },
+    {
+        "path": "media/authors/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-2xl.png",
+        "type": "file",
+        "md5": "bb934875f8bfb932c3d63c3837bf9856"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-lg.png",
+        "type": "file",
+        "md5": "9d57ff77141582c1bd5493418da8b97c"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-md.png",
+        "type": "file",
+        "md5": "8585a5d5adeb90e6b0caab6307076a67"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-sm.png",
+        "type": "file",
+        "md5": "64dcaeed78e7de51c62d33ac946f558f"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-xl.png",
+        "type": "file",
+        "md5": "3950767f1728d99bfaff04e7f2216c09"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-xs.png",
+        "type": "file",
+        "md5": "0f2bcb7553732d541389fe00bc36cb1c"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Play-Big.jpg",
+        "type": "file",
+        "md5": "cc69d58eb7e48eaee145f39fa3f98e84"
+    },
+    {
+        "path": "/media/website/Repeat-Relentlessly.jpg",
+        "type": "file",
+        "md5": "f7ab152ad01531df999601d3acd0ab82"
+    },
+    {
+        "path": "/media/website/cover.png",
+        "type": "file",
+        "md5": "97eb238a347258ff0caa2d4193f947ea"
+    },
+    {
+        "path": "/media/website/favicon.ico",
+        "type": "file",
+        "md5": "aa392c13feb886c01bb85fba6b10effc"
+    },
+    {
+        "path": "/media/website/profile.png",
+        "type": "file",
+        "md5": "2a81eacecd8169381be36811783cfc46"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Play-Big-2xl.jpg",
+        "type": "file",
+        "md5": "b4364d9826adae099a5ad4303f1c8abb"
+    },
+    {
+        "path": "/media/website/responsive/Play-Big-lg.jpg",
+        "type": "file",
+        "md5": "0e40598596ba016f478efaac2e696b36"
+    },
+    {
+        "path": "/media/website/responsive/Play-Big-md.jpg",
+        "type": "file",
+        "md5": "dd3dcfc94d78d561adf81f7fd63e8b68"
+    },
+    {
+        "path": "/media/website/responsive/Play-Big-sm.jpg",
+        "type": "file",
+        "md5": "c793b049ad11eebf1e6c16dce148070c"
+    },
+    {
+        "path": "/media/website/responsive/Play-Big-xl.jpg",
+        "type": "file",
+        "md5": "99d3be204a3dfaa002bf91a3ad0d28bd"
+    },
+    {
+        "path": "/media/website/responsive/Play-Big-xs.jpg",
+        "type": "file",
+        "md5": "b40f17fabcda1519011795fa715c5751"
+    },
+    {
+        "path": "/media/website/responsive/Repeat-Relentlessly-2xl.jpg",
+        "type": "file",
+        "md5": "9b82b23be1976f29af72fb9e2dc3db4e"
+    },
+    {
+        "path": "/media/website/responsive/Repeat-Relentlessly-lg.jpg",
+        "type": "file",
+        "md5": "c3b281d879c10eebf1f0085916daea25"
+    },
+    {
+        "path": "/media/website/responsive/Repeat-Relentlessly-md.jpg",
+        "type": "file",
+        "md5": "145c4aaaf5c65261b8a9199534403875"
+    },
+    {
+        "path": "/media/website/responsive/Repeat-Relentlessly-sm.jpg",
+        "type": "file",
+        "md5": "43d84c22b36f340469e8ba125a961df0"
+    },
+    {
+        "path": "/media/website/responsive/Repeat-Relentlessly-xl.jpg",
+        "type": "file",
+        "md5": "7718dede02be72cdb4b565b8b6395218"
+    },
+    {
+        "path": "/media/website/responsive/Repeat-Relentlessly-xs.jpg",
+        "type": "file",
+        "md5": "33be5075a57b1034402880d4a4f21085"
+    },
+    {
+        "path": "/media/website/responsive/cover-2xl.png",
+        "type": "file",
+        "md5": "bb934875f8bfb932c3d63c3837bf9856"
+    },
+    {
+        "path": "/media/website/responsive/cover-lg.png",
+        "type": "file",
+        "md5": "9d57ff77141582c1bd5493418da8b97c"
+    },
+    {
+        "path": "/media/website/responsive/cover-md.png",
+        "type": "file",
+        "md5": "8585a5d5adeb90e6b0caab6307076a67"
+    },
+    {
+        "path": "/media/website/responsive/cover-sm.png",
+        "type": "file",
+        "md5": "64dcaeed78e7de51c62d33ac946f558f"
+    },
+    {
+        "path": "/media/website/responsive/cover-xl.png",
+        "type": "file",
+        "md5": "3950767f1728d99bfaff04e7f2216c09"
+    },
+    {
+        "path": "/media/website/responsive/cover-xs.png",
+        "type": "file",
+        "md5": "0f2bcb7553732d541389fe00bc36cb1c"
+    },
+    {
+        "path": "/media/website/responsive/profile-2xl.png",
+        "type": "file",
+        "md5": "652cadb3cfdf184f164d86ee3b6af6e6"
+    },
+    {
+        "path": "/media/website/responsive/profile-lg.png",
+        "type": "file",
+        "md5": "652cadb3cfdf184f164d86ee3b6af6e6"
+    },
+    {
+        "path": "/media/website/responsive/profile-md.png",
+        "type": "file",
+        "md5": "ef15e2979ceb8cd639e21d7a138ce73b"
+    },
+    {
+        "path": "/media/website/responsive/profile-sm.png",
+        "type": "file",
+        "md5": "5c697bac5928b43163167f284918c443"
+    },
+    {
+        "path": "/media/website/responsive/profile-xl.png",
+        "type": "file",
+        "md5": "652cadb3cfdf184f164d86ee3b6af6e6"
+    },
+    {
+        "path": "/media/website/responsive/profile-xs.png",
+        "type": "file",
+        "md5": "5ad6ffebce44be8dfaec64e78d44fdd8"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "5466452eb2699961188058aa61d843d8"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "09655a45168746c6ce37c88819259459"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "strike-with-precision-mastering-timing-for-success-in-competitive-arenas.html",
+        "type": "file",
+        "md5": "58b74c7a2bb40f9a5efc86e4d4372e87"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "3b58f8eb1484e3934dc2601e269f671d"
+    },
+    {
+        "path": "transforming-practice-into-power-plays-training-for-high-impact-performance-success.html",
+        "type": "file",
+        "md5": "f06da02c6e65a9fcf7aa9542c5dd66a7"
+    },
+    {
+        "path": "turning-pressure-into-power-thrive-when-it-matters-most-with-proven-strategies-for-success.html",
+        "type": "file",
+        "md5": "7d4d95840fd1f2d182bc57cd74f5b26c"
+    },
+    {
+        "path": "unlocking-success-top-winning-habits-of-elite-competitors-you-can-adopt-today.html",
+        "type": "file",
+        "md5": "ead4ee19ed3439b0a0b035bbab613f0a"
+    },
+    {
+        "path": "unlocking-your-inner-champion-essential-strategies-to-win-big-and-achieve-greatness.html",
+        "type": "file",
+        "md5": "ec3bc6c0a4c3815419ce82032f435ba4"
+    }
+]
